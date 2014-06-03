@@ -1,0 +1,64 @@
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\bin\Debug\SWDialogBox.dll
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\bin\Debug\SWDialogBox.pdb
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\bin\Debug\SWDialogBox.xml
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Debug\ResolveAssemblyReference.cache
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Debug\SWDialogBox.FLoginBox.resources
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Debug\SWDialogBox.FMessageBox.resources
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Debug\SWDialogBox.FSplashBox.resources
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Debug\SWDialogBox.SWDialogBox.resources
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Debug\SWDialogBox.csproj.GenerateResource.Cache
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Debug\SWDialogBox.dll
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Debug\SWDialogBox.pdb
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\bin\Release\SWDialogBox.dll
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\bin\Release\SWDialogBox.xml
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Release\ResolveAssemblyReference.cache
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Release\SWDialogBox.FLoginBox.resources
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Release\SWDialogBox.FMessageBox.resources
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Release\SWDialogBox.FSplashBox.resources
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Release\SWDialogBox.SWDialogBox.resources
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Release\SWDialogBox.csproj.GenerateResource.Cache
+D:\项目代码\GMIS\GMISclient\GmisClientSrc2005\SWDialogBox\obj\Release\SWDialogBox.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\bin\Debug\SWDialogBox.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\bin\Debug\SWDialogBox.pdb
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\bin\Debug\SWDialogBox.xml
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\obj\Debug\ResolveAssemblyReference.cache
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\obj\Debug\SWDialogBox.FLoginBox.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\obj\Debug\SWDialogBox.FMessageBox.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\obj\Debug\SWDialogBox.FSplashBox.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\obj\Debug\SWDialogBox.SWDialogBox.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\obj\Debug\SWDialogBox.csproj.GenerateResource.Cache
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\obj\Debug\SWDialogBox.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\SWDialogBox\obj\Debug\SWDialogBox.pdb
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\bin\Debug\SWDialogBox.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\bin\Debug\SWDialogBox.pdb
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\bin\Debug\SWDialogBox.xml
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\ResolveAssemblyReference.cache
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.FLoginBox.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.FMessageBox.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.FSplashBox.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.SWDialogBox.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.csproj.GenerateResource.Cache
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.pdb
+E:\GmisClientSrc2005(兴业)\SWDialogBox\bin\Debug\SWDialogBox.dll
+E:\GmisClientSrc2005(兴业)\SWDialogBox\bin\Debug\SWDialogBox.pdb
+E:\GmisClientSrc2005(兴业)\SWDialogBox\bin\Debug\SWDialogBox.xml
+E:\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\ResolveAssemblyReference.cache
+E:\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.FLoginBox.resources
+E:\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.FMessageBox.resources
+E:\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.FSplashBox.resources
+E:\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.SWDialogBox.resources
+E:\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.csproj.GenerateResource.Cache
+E:\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.dll
+E:\GmisClientSrc2005(兴业)\SWDialogBox\obj\Debug\SWDialogBox.pdb
+D:\git\gmis_client\SWDialogBox\bin\Debug\SWDialogBox.dll
+D:\git\gmis_client\SWDialogBox\bin\Debug\SWDialogBox.pdb
+D:\git\gmis_client\SWDialogBox\bin\Debug\SWDialogBox.xml
+D:\git\gmis_client\SWDialogBox\obj\Debug\ResolveAssemblyReference.cache
+D:\git\gmis_client\SWDialogBox\obj\Debug\SWDialogBox.FLoginBox.resources
+D:\git\gmis_client\SWDialogBox\obj\Debug\SWDialogBox.FMessageBox.resources
+D:\git\gmis_client\SWDialogBox\obj\Debug\SWDialogBox.FSplashBox.resources
+D:\git\gmis_client\SWDialogBox\obj\Debug\SWDialogBox.SWDialogBox.resources
+D:\git\gmis_client\SWDialogBox\obj\Debug\SWDialogBox.csproj.GenerateResource.Cache
+D:\git\gmis_client\SWDialogBox\obj\Debug\SWDialogBox.dll
+D:\git\gmis_client\SWDialogBox\obj\Debug\SWDialogBox.pdb

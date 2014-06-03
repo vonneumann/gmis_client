@@ -1,0 +1,1785 @@
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\MainInterface.exe.config
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\Interop.VBIDE.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.vbproj.ResolveComReference.cache
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FImportFinance.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReviewBase.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReview_bh.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReview_xxbh.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReview_xxbh_approve.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReview_xxbh_check.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReview_zdb.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCoMBase.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmEvalTrial.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmFinanceManage.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmFirstTrial.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmProjectCorpInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTrialFirstOpinionFinal.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmBasic.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmBasicProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRollbackReason.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FContract.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCarContract.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmChattelContract.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCommonContract.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmEstateContract.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FConsole.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.DataGridDateTimeColumn.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAffirmCountercliam.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAffirmReturnSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAffirmSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAntiAssureCompanys.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FChargeFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCheckMeetRecordUpdate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCheckProjectTraceInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FConfirmMeetRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCopyGuaranteeCheckRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FPostConfigure.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRegisterCounterclaim.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRegisterDischargeInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRegisterDischargeRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReturnGuaranteeFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReturnSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAffirmFeeBase.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAffirmGuarantFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAffirmReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAfterVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmArrangeSign.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAuditDelayPro.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmBeforeVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmChangeGuarantyFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmChargeFeeBase.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmChargeOverdueRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCheckBank.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCheckRecordTable.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCheckReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmConfirmProjectDelay.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCorAssure.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCorAssureList.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmGuarantFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMeetingRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMeetingRecordExp.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMeetQuery.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMeetRecordQuery.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMeetSetup.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmOverdueTrailRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmPersonAssure.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmProjectAppraisement.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlan.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlanExp.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRefundDebtInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRefundDebtTrailRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRegSig.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRegSigExp.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmReturnFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSettleMeet.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSignJointlyAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSigProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSubmitTrialOpinion.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTraceInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTrackPlan.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTuneUpOpinion.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmUpdateGuarantyMeasure.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmValidateProjectPlan.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmValidateTrackPlan.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FServiceType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FShowOppGuaranteeDetail.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FSignatureQuery.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecordApply.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FUserPost.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FWorkLogConfigure.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FWorkPeriod.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FMessage.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FMessageSender.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMainInterface.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSearchCorporation.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FTaskList.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FWaitingProcess.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FApplyIntentLetter_zdb.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryProjectAppraise.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRegisterLoanInfo_zdb.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmBankReturn.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmConfirmChangeManager.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmConfirmItem.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmEnterPriseIntent.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRequestVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSearchTrialInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSignIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSignVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSignVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmVouchReturn.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmVouchReturnExp.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FSignIntentLetter_zdb.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FViewAffirmContent.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FViewConfirmItem.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.NoteBox.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryAfterGuaranteeRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryGetGuaranteeProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsAssurance.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCompensation.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCounterGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingA.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingB.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingC.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsPMService.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsRegion.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsTradeRegion.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryUnDealProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmGuaranteeCertificateAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmIsFirstLoanStat.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSuspendOpinionPaper.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FStatisticsFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FStatisticsRecommendProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FChargeFeeTool.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FClaimTool.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FFirstReviewCancel.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FProjectExpandDate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReMeeting.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReviewGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmBaseWfDefine.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmBaseWorkflow.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCancelConsignTask.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCancelProcess.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmConsignTask.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmHoliday.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmManualTask.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmReAssignAttendee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSuspendProcess.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTaskDefine.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTaskRoleDefine.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTaskTransferDefine.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTimingTaskDefine.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FUpdateGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FUpdateIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FUpdateProcess.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryAcceptProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryAllocateProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryBase.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryChargeStatistics.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryConsultation.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryCreditProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryFirstProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryFirstTrialProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryGuaranteeForm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryGuarantingCorporation.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryLoanProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryOppEvaluate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryPauseProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryPresentingProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryProcessingProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryProjectExpandDate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryProjectRequite.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryRecantProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryRegionProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryRequiteProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQuerySignProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryUnSignProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMaturityProjectReview.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmOverdueProjectQuery.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRefundDebtProjectQuery.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmSearchBaseClass.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTerminateProjectReview.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.DataGridColor.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.DataGridColoredBoolColumn.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.DataGridColoredTextBoxColumn.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAffirmEvaluateDate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FOppImportData.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryEvaluaterTask.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAcceptRequest.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmArchiveContractMeterial.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmArchiveMaterial.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCompanyFileManage.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCompanyFileQuery.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmContractAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCountersignAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDefectRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDefectRecordAdd.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDevolveOnProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDocumentBill.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDocumentList.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDocumentManage.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDocumentManageBusiness.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDocumentParameter.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDocumentSystem.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmEvaPerson.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmFraternityAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmImportDataToExcel.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmInspectMaterial.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmInsuraceAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmLawTextAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMakeContract.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMaterial.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmMaterialAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmOppGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeEvaluate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeRegister.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmPledgeRegistryAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmPrehockAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmQueryAcceptRequest.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmQueryBasic.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmQueryCorporationInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmQueryCurrentTask.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmQueryDefectRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmQueryOppGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRecommendAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRegisterCorporationInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRegistryAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmReviewContract.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmTemplateManage.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmWardAffirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAssignLawer_bh.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAssignLawer_ProjectDelay.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAssignLawer_zdb.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAssignPmBase.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAssignPm_BH.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAssignPm_ZDB.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterApply.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterReturn.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterSign.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminateConfirm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRegisterProjectEndCaseInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAssignationFirstChecker.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAssignationGroup.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAssignationLawManager.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAssignationProjectManager.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAssignFirstTask.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmBusinessBaseWin.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmCenCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmDepCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmFinancialCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmFindProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeQueryCheck.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmShowProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmShowVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FSendMessage.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FViewGuaranteeLetterUsage.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.DataGridComboBoxColumn.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FAlarm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FBank.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FBaseData.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FBranch.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FConferenceRoom.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCooperateOrganization.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCorporationType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCorporatioRelationType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuality.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuantity.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCreditAppraiseSystem.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FCurrency.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FDistrict.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FFinancialAnalysis.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FGuarantyStatus.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FIndustryType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FInvestForm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FItem.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FItem01.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FItem02.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FItem03.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FItem04.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FLoanChargeManner.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FLoanForm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FLoanProvideForm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FLoanType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FMasterDetailDataForm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FMaterial.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FOppositeGuaranteeForm.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FOrganization.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FPassword.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FPhase.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FProject.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FProjectCredit.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FProprietorshipType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryStatisticsWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FQueryWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRecommendType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRefundType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FReimburseType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRiskClass.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FRole.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FServiceTypeDialog.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FStaff.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FStaffRole.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FStatisticsWorkingHours.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FTeam.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FTechnologyType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FTerminateType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FWorkType.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.vbproj.GenerateResource.Cache
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\MainInterface.exe
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\MainInterface.pdb
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\MainInterface.xml
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\DocumentManager.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\Money2String.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\SWCalendar.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\SWDialogBox.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\SWSystem.Windows.Forms.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\SWSystem.XML.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\Interop.Word.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\Interop.VBIDE.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\SWDialogBox.pdb
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\SWDialogBox.xml
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\DocumentManager.pdb
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\Interop.Excel.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\Interop.Microsoft.Office.Core.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\Interop.Excel.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\Interop.Word.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.exe
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.xml
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.pdb
+D:\担保业务系统\GmisClientSrc2005\MainInterface\bin\irisskin.dll
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmLoanInterestFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmAffirmFinancingConsultingRate.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmFinancingConsultingFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmRecordBankFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.frmBackFee.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FChargeBackFeeTool.resources
+D:\担保业务系统\GmisClientSrc2005\MainInterface\obj\Debug\MainInterface.FChargeBackFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\MainInterface.exe.config
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.exe
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.xml
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.pdb
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\Interop.Excel.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\Interop.VBIDE.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\Interop.Word.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.vbproj.ResolveComReference.cache
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FImportFinance.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReviewBase.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReview_bh.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReview_xxbh.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReview_xxbh_approve.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReview_xxbh_check.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReview_zdb.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCoMBase.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmEvalTrial.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmFinanceManage.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmFirstTrial.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmProjectCorpInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTrialFirstOpinionFinal.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmBasic.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmBasicProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRollbackReason.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FContract.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCarContract.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmChattelContract.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCommonContract.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmEstateContract.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FConsole.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.DataGridDateTimeColumn.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAffirmCountercliam.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAffirmReturnSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAffirmSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAntiAssureCompanys.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FChargeFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCheckMeetRecordUpdate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCheckProjectTraceInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FConfirmMeetRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCopyGuaranteeCheckRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FPostConfigure.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRegisterCounterclaim.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRegisterDischargeInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRegisterDischargeRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReturnGuaranteeFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReturnSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAffirmFeeBase.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAffirmGuarantFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAffirmReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAfterVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmArrangeSign.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAuditDelayPro.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmBeforeVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmChangeGuarantyFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmChargeFeeBase.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmChargeOverdueRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCheckBank.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCheckRecordTable.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCheckReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmConfirmProjectDelay.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCorAssure.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCorAssureList.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmGuarantFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMeetingRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMeetingRecordExp.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMeetQuery.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMeetRecordQuery.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMeetSetup.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmOverdueTrailRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmPersonAssure.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmProjectAppraisement.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlan.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlanExp.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRefundDebtInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRefundDebtTrailRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRegSig.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRegSigExp.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmReturnFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSettleMeet.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSignJointlyAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSigProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSubmitTrialOpinion.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTraceInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTrackPlan.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTuneUpOpinion.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmUpdateGuarantyMeasure.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmValidateProjectPlan.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmValidateTrackPlan.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FServiceType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FShowOppGuaranteeDetail.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FSignatureQuery.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecordApply.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FUserPost.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FWorkLogConfigure.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FWorkPeriod.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmLoanInterestFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmFinancingConsultingFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAffirmFinancingConsultingRate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRecordBankFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmBackFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FChargeBackFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FMessage.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FMessageSender.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMainInterface.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSearchCorporation.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FTaskList.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FWaitingProcess.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FApplyIntentLetter_zdb.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryProjectAppraise.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRegisterLoanInfo_zdb.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmBankReturn.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmConfirmChangeManager.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmConfirmItem.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmEnterPriseIntent.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRequestVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSearchTrialInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSignIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSignVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSignVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmVouchReturn.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmVouchReturnExp.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FSignIntentLetter_zdb.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FViewAffirmContent.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FViewConfirmItem.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.NoteBox.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryAfterGuaranteeRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryGetGuaranteeProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsAssurance.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCompensation.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCounterGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingA.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingB.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingC.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsPMService.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsRegion.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsTradeRegion.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryUnDealProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmGuaranteeCertificateAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmIsFirstLoanStat.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSuspendOpinionPaper.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FStatisticsFee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FStatisticsRecommendProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FChargeFeeTool.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FClaimTool.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FFirstReviewCancel.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FProjectExpandDate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReMeeting.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReviewGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmBaseWfDefine.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmBaseWorkflow.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCancelConsignTask.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCancelProcess.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmConsignTask.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmHoliday.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmManualTask.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmReAssignAttendee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSuspendProcess.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTaskDefine.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTaskRoleDefine.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTaskTransferDefine.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTimingTaskDefine.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FUpdateGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FUpdateIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FUpdateProcess.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FChargeBackFeeTool.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryAcceptProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryAllocateProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryBase.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryChargeStatistics.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryConsultation.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryCreditProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryFirstProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryFirstTrialProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryGuaranteeForm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryGuarantingCorporation.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryLoanProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryOppEvaluate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryPauseProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryPresentingProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryProcessingProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryProjectExpandDate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryProjectRequite.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryRecantProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryRegionProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryRequiteProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQuerySignProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryUnSignProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMaturityProjectReview.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmOverdueProjectQuery.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRefundDebtProjectQuery.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmSearchBaseClass.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTerminateProjectReview.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.DataGridColor.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.DataGridColoredBoolColumn.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.DataGridColoredTextBoxColumn.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAffirmEvaluateDate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FOppImportData.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryEvaluaterTask.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAcceptRequest.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmArchiveContractMeterial.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmArchiveMaterial.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCompanyFileManage.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCompanyFileQuery.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmContractAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCountersignAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDefectRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDefectRecordAdd.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDevolveOnProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDocumentBill.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDocumentList.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDocumentManage.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDocumentManageBusiness.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDocumentParameter.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDocumentSystem.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmEvaPerson.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmFraternityAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmImportDataToExcel.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmInspectMaterial.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmInsuraceAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmLawTextAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMakeContract.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMaterial.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmMaterialAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmOppGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeEvaluate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeRegister.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmPledgeRegistryAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmPrehockAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmQueryAcceptRequest.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmQueryBasic.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmQueryCorporationInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmQueryCurrentTask.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmQueryDefectRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmQueryOppGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRecommendAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRegisterCorporationInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmRegistryAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmReviewContract.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmTemplateManage.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmWardAffirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAssignLawer_bh.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAssignLawer_ProjectDelay.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAssignLawer_zdb.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAssignPmBase.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAssignPm_BH.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAssignPm_ZDB.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterApply.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterReturn.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterSign.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminateConfirm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRegisterProjectEndCaseInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAssignationFirstChecker.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAssignationGroup.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAssignationLawManager.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAssignationProjectManager.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmAssignFirstTask.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmBusinessBaseWin.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmCenCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmDepCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmFinancialCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmFindProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeQueryCheck.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmShowProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmShowVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FSendMessage.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FViewGuaranteeLetterUsage.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.DataGridComboBoxColumn.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FAlarm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FBank.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FBaseData.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FBranch.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FConferenceRoom.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCooperateOrganization.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCorporationType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCorporatioRelationType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuality.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuantity.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCreditAppraiseSystem.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FCurrency.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FDistrict.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FFinancialAnalysis.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FGuarantyStatus.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FIndustryType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FInvestForm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FItem.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FItem01.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FItem02.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FItem03.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FItem04.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FLoanChargeManner.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FLoanForm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FLoanProvideForm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FLoanType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FMasterDetailDataForm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FMaterial.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FOppositeGuaranteeForm.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FOrganization.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FPassword.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FPhase.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FProject.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FProjectCredit.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FProprietorshipType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryStatisticsWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FQueryWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRecommendType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRefundType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FReimburseType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRiskClass.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FRole.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FServiceTypeDialog.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FStaff.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FStaffRole.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FStatisticsWorkingHours.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FTeam.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FTechnologyType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FTerminateType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FWorkType.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.vbproj.GenerateResource.Cache
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\MainInterface.exe
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\MainInterface.pdb
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\MainInterface.xml
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\DocumentManager.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\Money2String.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\SWCalendar.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\SWDialogBox.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\SWSystem.Windows.Forms.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\SWSystem.XML.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\Interop.Microsoft.Office.Core.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\Interop.Word.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\Interop.VBIDE.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\SWDialogBox.pdb
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\SWDialogBox.xml
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\DocumentManager.pdb
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\Interop.Excel.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\bin\IrisSkin.dll
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.frmOversee.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FrmOverseeFinanceInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FrmOverseeVirtualProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005 - 副本\MainInterface\obj\Debug\MainInterface.FSplitProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\MainInterface.exe.config
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.exe
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.xml
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.pdb
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\MainInterface.exe
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\MainInterface.pdb
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\MainInterface.xml
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\DocumentManager.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\IrisSkin.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\Money2String.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\SWCalendar.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\SWDialogBox.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\SWSystem.Windows.Forms.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\SWSystem.XML.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\Interop.Microsoft.Office.Core.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\Interop.Word.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\Interop.VBIDE.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\SWDialogBox.pdb
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\SWDialogBox.xml
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\DocumentManager.pdb
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\bin\Interop.Excel.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\Interop.Excel.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\Interop.VBIDE.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\Interop.Word.dll
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.vbproj.ResolveComReference.cache
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FImportFinance.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReviewBase.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_bh.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_xxbh.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_xxbh_approve.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_xxbh_check.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_zdb.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCoMBase.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmEvalTrial.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFinanceManage.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFirstTrial.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectCorpInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTrialFirstOpinionFinal.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBasic.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBasicProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRollbackReason.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FContract.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCarContract.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmChattelContract.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCommonContract.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmEstateContract.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FConsole.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridDateTimeColumn.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAffirmCountercliam.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAffirmReturnSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAffirmSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAntiAssureCompanys.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FChargeFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCheckMeetRecordUpdate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCheckProjectTraceInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FConfirmMeetRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCopyGuaranteeCheckRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FPostConfigure.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterCounterclaim.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterDischargeInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterDischargeRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReturnGuaranteeFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReturnSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirmFeeBase.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirmGuarantFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirmReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAfterVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmArrangeSign.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAuditDelayPro.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBeforeVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmChangeGuarantyFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmChargeFeeBase.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmChargeOverdueRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCheckBank.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCheckRecordTable.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCheckReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmProjectDelay.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCorAssure.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCorAssureList.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmGuarantFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetingRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetingRecordExp.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetQuery.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetRecordQuery.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetSetup.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOverdueTrailRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmPersonAssure.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectAppraisement.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlan.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlanExp.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRefundDebtInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRefundDebtTrailRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRegSig.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRegSigExp.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmReturnFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmReviewFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSettleMeet.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSignJointlyAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSigProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSubmitTrialOpinion.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTraceInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTrackPlan.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTuneUpOpinion.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmUpdateGuarantyMeasure.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmValidateProjectPlan.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmValidateTrackPlan.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSecurityFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FServiceType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FShowOppGuaranteeDetail.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSignatureQuery.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSplitProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecordApply.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUserPost.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWorkLogConfigure.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWorkPeriod.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmLoanInterestFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFinancingConsultingFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirmFinancingConsultingRate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRecordBankFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBackFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FChargeBackFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FMessage.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FMessageSender.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMainInterface.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSearchCorporation.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FTaskList.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWaitingProcess.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FApplyIntentLetter_zdb.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryProjectAppraise.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterLoanInfo_zdb.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBankReturn.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmChangeManager.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmItem.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmEnterPriseIntent.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRequestVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSearchTrialInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSignIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSignVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSignVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmVouchApplication.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmVouchApplicationExp.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmVouchReturn.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmVouchReturnExp.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSignIntentLetter_zdb.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FViewAffirmContent.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FViewConfirmItem.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOversee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FrmOverseeFinanceInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FrmOverseeVirtualProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.NoteBox.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryAfterGuaranteeRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryGetGuaranteeProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsAssurance.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCompensation.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCounterGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingA.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingB.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingC.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsPMService.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsRegion.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsTradeRegion.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryUnDealProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmGuaranteeCertificateAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmIsFirstLoanStat.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSuspendOpinionPaper.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStatisticsFee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStatisticsRecommendProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FChargeFeeTool.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FClaimTool.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FFirstReviewCancel.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FProjectExpandDate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReMeeting.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReviewGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBaseWfDefine.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBaseWorkflow.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCancelConsignTask.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCancelProcess.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConsignTask.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmHoliday.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmManualTask.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmReAssignAttendee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSuspendProcess.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTaskDefine.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTaskRoleDefine.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTaskTransferDefine.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTimingTaskDefine.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateIntentLetter.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateProcess.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FChargeBackFeeTool.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryAcceptProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryAllocateProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryBase.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryChargeStatistics.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryConsultation.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryCreditProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryFirstProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryFirstTrialProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryGuaranteeForm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryGuarantingCorporation.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryLoanProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryOppEvaluate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryPauseProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryPresentingProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryProcessingProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryProjectExpandDate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryProjectRequite.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryRecantProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryRegionProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryRequiteProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQuerySignProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryUnSignProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMaturityProjectReview.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOverdueProjectQuery.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRefundDebtProjectQuery.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSearchBaseClass.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTerminateProjectReview.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridColor.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridColoredBoolColumn.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridColoredTextBoxColumn.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAffirmEvaluateDate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FOppImportData.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryEvaluaterTask.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAcceptRequest.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmArchiveContractMeterial.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmArchiveMaterial.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCompanyFileManage.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCompanyFileQuery.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmContractAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCountersignAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDefectRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDefectRecordAdd.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDevolveOnProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentBill.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentList.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentManage.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentManageBusiness.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentParameter.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentSystem.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmEvaPerson.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFraternityAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmImportDataToExcel.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmInspectMaterial.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmInsuraceAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmLawTextAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMakeContract.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMaterial.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMaterialAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeEvaluate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeRegister.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmPledgeRegistryAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmPrehockAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryAcceptRequest.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryBasic.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryCorporationInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryCurrentTask.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryDefectRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryOppGuarantee.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRecommendAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRegisterCorporationInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRegistryAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmReviewContract.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTemplateManage.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmWardAffirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignLawer_bh.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignLawer_ProjectDelay.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignLawer_zdb.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignPmBase.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignPm_BH.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignPm_ZDB.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterApply.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterReturn.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterSign.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminateConfirm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterProjectEndCaseInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignationFirstChecker.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignationGroup.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignationLawManager.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignationProjectManager.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignFirstTask.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBusinessBaseWin.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCenCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDepCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFinancialCheckProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFindProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeQueryCheck.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectTerminate.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmShowProjectInfo.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmShowVouchRecord.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSendMessage.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FViewGuaranteeLetterUsage.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridComboBoxColumn.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAlarm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FBank.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FBaseData.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FBranch.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FConferenceRoom.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCooperateOrganization.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCorporationType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCorporatioRelationType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuality.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuantity.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCreditAppraiseSystem.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCurrency.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FDistrict.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FFinancialAnalysis.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuarantyStatus.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FIndustryType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FInvestForm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem01.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem02.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem03.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem04.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FLoanChargeManner.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FLoanForm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FLoanProvideForm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FLoanType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FMasterDetailDataForm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FMaterial.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FOppositeGuaranteeForm.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FOrganization.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FPassword.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FPhase.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FProject.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FProjectCredit.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FProprietorshipType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryWorkLog.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRecommendType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRefundType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReimburseType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRiskClass.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRole.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FServiceTypeDialog.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStaff.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStaffRole.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStatisticsWorkingHours.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FTeam.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FTechnologyType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FTerminateType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWorkType.resources
+D:\担保业务系统\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.vbproj.GenerateResource.Cache
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\MainInterface.exe.config
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.exe
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.xml
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.pdb
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\MainInterface.exe
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\MainInterface.pdb
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\MainInterface.xml
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\DocumentManager.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\IrisSkin.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\Money2String.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\Office.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\SWCalendar.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\SWDialogBox.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\SWSystem.Windows.Forms.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\SWSystem.XML.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\Interop.Microsoft.Office.Core.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\Interop.Word.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\Interop.VBIDE.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\SWDialogBox.pdb
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\SWDialogBox.xml
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\DocumentManager.pdb
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\Office.xml
+E:\GmisClientSrc2005(兴业)\MainInterface\bin\Interop.Excel.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\ResolveAssemblyReference.cache
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\Interop.Excel.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\Interop.VBIDE.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\Interop.Word.dll
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.vbproj.ResolveComReference.cache
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FImportFinance.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReviewBase.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_bh.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_xxbh.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_xxbh_approve.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_xxbh_check.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReview_zdb.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCoMBase.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmEvalTrial.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFinanceManage.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFirstTrial.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectCorpInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTrialFirstOpinionFinal.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBasic.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBasicProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRollbackReason.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FContract.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCarContract.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmChattelContract.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCommonContract.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmEstateContract.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FConsole.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridDateTimeColumn.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAffirmCountercliam.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAffirmReturnSecurityFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAffirmSecurityFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAntiAssureCompanys.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FChargeFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCheckMeetRecordUpdate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCheckProjectTraceInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FConfirmMeetRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCopyGuaranteeCheckRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FPostConfigure.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryIntentLetter.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterCounterclaim.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterDischargeInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterDischargeRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReturnGuaranteeFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReturnSecurityFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirmFeeBase.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirmGuarantFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirmReviewFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAfterVouchRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmArrangeSign.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAuditDelayPro.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBeforeVouchRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmChangeGuarantyFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmChargeFeeBase.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmChargeOverdueRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCheckBank.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCheckRecordTable.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCheckReviewFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmProjectDelay.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCorAssure.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCorAssureList.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmGuarantFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetingRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetingRecordExp.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetQuery.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetRecordQuery.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMeetSetup.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOverdueTrailRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmPersonAssure.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectAppraisement.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlan.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlanExp.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRefundDebtInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRefundDebtTrailRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRegSig.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRegSigExp.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmReturnFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmReviewFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSettleMeet.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSignJointlyAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSigProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSubmitTrialOpinion.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTraceInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTrackPlan.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTuneUpOpinion.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmUpdateGuarantyMeasure.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmValidateProjectPlan.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmValidateTrackPlan.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmWorkLog.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSecurityFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FServiceType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FShowOppGuaranteeDetail.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSignatureQuery.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSplitProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecordApply.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUserPost.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWorkLog.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWorkLogConfigure.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWorkPeriod.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmLoanInterestFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFinancingConsultingFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirmFinancingConsultingRate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRecordBankFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBackFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FChargeBackFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FMessage.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FMessageSender.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMainInterface.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSearchCorporation.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FTaskList.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWaitingProcess.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FApplyIntentLetter_zdb.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryProjectAppraise.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterLoanInfo_zdb.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBankReturn.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmChangeManager.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmItem.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplication.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplicationExp.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmEnterPriseIntent.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRequestVouchApplication.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSearchTrialInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSignIntentLetter.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSignVouchApplication.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSignVouchApplicationExp.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmVouchApplication.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmVouchApplicationExp.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmVouchReturn.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmVouchReturnExp.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSignIntentLetter_zdb.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FViewAffirmContent.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FViewConfirmItem.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOversee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FrmOverseeFinanceInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FrmOverseeVirtualProjectInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.NoteBox.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryAfterGuaranteeRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryGetGuaranteeProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsAssurance.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCompensation.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCounterGuarantee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingA.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingB.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingC.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsPMService.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsRegion.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsTradeRegion.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryUnDealProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmGuaranteeCertificateAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmIsFirstLoanStat.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSuspendOpinionPaper.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStatisticsFee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStatisticsRecommendProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FChargeFeeTool.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FClaimTool.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FFirstReviewCancel.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FProjectExpandDate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReMeeting.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReviewGuarantee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBaseWfDefine.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBaseWorkflow.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCancelConsignTask.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCancelProcess.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmConsignTask.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmHoliday.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmManualTask.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmReAssignAttendee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSuspendProcess.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTaskDefine.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTaskRoleDefine.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTaskTransferDefine.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTimingTaskDefine.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateGuarantee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateIntentLetter.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FUpdateProcess.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FChargeBackFeeTool.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryAcceptProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryAllocateProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryBase.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryChargeStatistics.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryConsultation.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryCreditProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryFirstProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryFirstTrialProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryGuaranteeForm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryGuarantingCorporation.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryLoanProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryOppEvaluate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryPauseProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryPresentingProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryProcessingProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryProjectExpandDate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryProjectRequite.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryRecantProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryRegionProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryRequiteProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQuerySignProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryUnSignProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMaturityProjectReview.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOverdueProjectQuery.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRefundDebtProjectQuery.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmSearchBaseClass.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTerminateProjectReview.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridColor.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridColoredBoolColumn.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridColoredTextBoxColumn.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAffirmEvaluateDate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FOppImportData.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryEvaluaterTask.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAcceptRequest.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmArchiveContractMeterial.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmArchiveMaterial.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCompanyFileManage.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCompanyFileQuery.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmContractAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCountersignAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDefectRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDefectRecordAdd.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDevolveOnProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentBill.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentList.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentManage.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentManageBusiness.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentParameter.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDocumentSystem.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmEvaPerson.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFraternityAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmImportDataToExcel.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmInspectMaterial.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmInsuraceAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmLawTextAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMakeContract.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMaterial.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmMaterialAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuarantee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeEvaluate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeRegister.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmPledgeRegistryAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmPrehockAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryAcceptRequest.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryBasic.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryCorporationInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryCurrentTask.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryDefectRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmQueryOppGuarantee.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRecommendAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRegisterCorporationInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmRegistryAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmReviewContract.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmTemplateManage.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmWardAffirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignLawer_bh.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignLawer_ProjectDelay.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignLawer_zdb.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignPmBase.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignPm_BH.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAssignPm_ZDB.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterApply.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterReturn.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterSign.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminateConfirm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRegisterProjectEndCaseInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignationFirstChecker.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignationGroup.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignationLawManager.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignationProjectManager.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmAssignFirstTask.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmBusinessBaseWin.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmCenCheckProjectTerminate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmDepCheckProjectTerminate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFinancialCheckProjectTerminate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmFindProjectInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeQueryCheck.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmProjectTerminate.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmShowProjectInfo.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.frmShowVouchRecord.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FSendMessage.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FViewGuaranteeLetterUsage.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.DataGridComboBoxColumn.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FAlarm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FBank.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FBaseData.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FBranch.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FConferenceRoom.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCooperateOrganization.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCorporationType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCorporatioRelationType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuality.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuantity.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCreditAppraiseSystem.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FCurrency.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FDistrict.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FFinancialAnalysis.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FGuarantyStatus.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FIndustryType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FInvestForm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem01.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem02.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem03.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FItem04.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FLoanChargeManner.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FLoanForm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FLoanProvideForm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FLoanType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FMasterDetailDataForm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FMaterial.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FOppositeGuaranteeForm.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FOrganization.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FPassword.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FPhase.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FProject.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FProjectCredit.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FProprietorshipType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryStatisticsWorkLog.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FQueryWorkLog.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRecommendType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRefundType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FReimburseType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRiskClass.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FRole.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FServiceTypeDialog.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStaff.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStaffRole.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FStatisticsWorkingHours.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FTeam.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FTechnologyType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FTerminateType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.FWorkType.resources
+E:\GmisClientSrc2005(兴业)\MainInterface\obj\Debug\MainInterface.vbproj.GenerateResource.Cache
+D:\git\gmis_client\MainInterface\bin\MainInterface.exe.config
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.exe
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.xml
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.pdb
+D:\git\gmis_client\MainInterface\bin\MainInterface.exe
+D:\git\gmis_client\MainInterface\bin\MainInterface.pdb
+D:\git\gmis_client\MainInterface\bin\MainInterface.xml
+D:\git\gmis_client\MainInterface\bin\DocumentManager.dll
+D:\git\gmis_client\MainInterface\bin\IrisSkin.dll
+D:\git\gmis_client\MainInterface\bin\Money2String.dll
+D:\git\gmis_client\MainInterface\bin\Office.dll
+D:\git\gmis_client\MainInterface\bin\SWCalendar.dll
+D:\git\gmis_client\MainInterface\bin\SWDialogBox.dll
+D:\git\gmis_client\MainInterface\bin\SWSystem.Windows.Forms.dll
+D:\git\gmis_client\MainInterface\bin\SWSystem.XML.dll
+D:\git\gmis_client\MainInterface\bin\Interop.Microsoft.Office.Core.dll
+D:\git\gmis_client\MainInterface\bin\Interop.Word.dll
+D:\git\gmis_client\MainInterface\bin\Interop.VBIDE.dll
+D:\git\gmis_client\MainInterface\bin\SWDialogBox.pdb
+D:\git\gmis_client\MainInterface\bin\SWDialogBox.xml
+D:\git\gmis_client\MainInterface\bin\DocumentManager.pdb
+D:\git\gmis_client\MainInterface\bin\Office.xml
+D:\git\gmis_client\MainInterface\bin\Interop.Excel.dll
+D:\git\gmis_client\MainInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\git\gmis_client\MainInterface\obj\Debug\Interop.Excel.dll
+D:\git\gmis_client\MainInterface\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\git\gmis_client\MainInterface\obj\Debug\Interop.VBIDE.dll
+D:\git\gmis_client\MainInterface\obj\Debug\Interop.Word.dll
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.vbproj.ResolveComReference.cache
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FImportFinance.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReviewBase.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReview_bh.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReview_xxbh.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReview_xxbh_approve.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReview_xxbh_check.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReview_zdb.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCoMBase.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmEvalTrial.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmFinanceManage.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmFirstTrial.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmProjectCorpInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTrialFirstOpinionFinal.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmBasic.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmBasicProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmProjectInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRollbackReason.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FContract.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCarContract.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmChattelContract.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCommonContract.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmEstateContract.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FConsole.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.DataGridDateTimeColumn.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAffirmCountercliam.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAffirmReturnSecurityFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAffirmSecurityFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAntiAssureCompanys.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FChargeFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCheckMeetRecordUpdate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCheckProjectTraceInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FConfirmMeetRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCopyGuaranteeCheckRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FPostConfigure.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryIntentLetter.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRegisterCounterclaim.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRegisterDischargeInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRegisterDischargeRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReturnGuaranteeFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReturnSecurityFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAffirmFeeBase.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAffirmGuarantFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAffirmReviewFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAfterVouchRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmArrangeSign.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAuditDelayPro.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmBeforeVouchRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmChangeGuarantyFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmChargeFeeBase.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmChargeOverdueRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCheckBank.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCheckRecordTable.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCheckReviewFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmConfirmProjectDelay.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCorAssure.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCorAssureList.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmGuarantFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMeetingRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMeetingRecordExp.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMeetQuery.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMeetRecordQuery.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMeetSetup.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmOverdueTrailRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmPersonAssure.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmProjectAppraisement.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlan.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmProjectReturnPlanExp.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRefundDebtInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRefundDebtTrailRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRegSig.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRegSigExp.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmReturnFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmReviewFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSettleMeet.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSignJointlyAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSigProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSubmitTrialOpinion.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTraceInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTrackPlan.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTuneUpOpinion.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmUpdateGuarantyMeasure.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmValidateProjectPlan.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmValidateTrackPlan.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmWorkLog.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FSecurityFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FServiceType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FShowOppGuaranteeDetail.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FSignatureQuery.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FSplitProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecordApply.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FUserPost.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FWorkLog.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FWorkLogConfigure.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FWorkPeriod.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmLoanInterestFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmFinancingConsultingFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAffirmFinancingConsultingRate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRecordBankFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmBackFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FChargeBackFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FMessage.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FMessageSender.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMainInterface.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSearchCorporation.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FTaskList.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FWaitingProcess.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FApplyIntentLetter_zdb.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryProjectAppraise.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRegisterLoanInfo_zdb.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmBankReturn.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmConfirmChangeManager.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmConfirmItem.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplication.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmConfirmVouchApplicationExp.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmEnterPriseIntent.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRequestVouchApplication.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSearchTrialInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSignIntentLetter.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSignVouchApplication.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSignVouchApplicationExp.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmVouchApplication.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmVouchApplicationExp.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmVouchReturn.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmVouchReturnExp.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FSignIntentLetter_zdb.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FViewAffirmContent.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FViewConfirmItem.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmOversee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FrmOverseeFinanceInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FrmOverseeVirtualProjectInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.NoteBox.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryAfterGuaranteeRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryGetGuaranteeProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsAssurance.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCompensation.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsCounterGuarantee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingA.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingB.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsMarketingC.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsPMService.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsRegion.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsTradeRegion.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryUnDealProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmGuaranteeCertificateAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmIsFirstLoanStat.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSuspendOpinionPaper.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FStatisticsFee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FStatisticsRecommendProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FChargeFeeTool.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FClaimTool.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FFirstReviewCancel.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FProjectExpandDate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReMeeting.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReviewGuarantee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmBaseWfDefine.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmBaseWorkflow.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCancelConsignTask.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCancelProcess.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmConsignTask.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmHoliday.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmManualTask.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmReAssignAttendee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSuspendProcess.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTaskDefine.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTaskRoleDefine.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTaskTransferDefine.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTimingTaskDefine.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FUpdateGuarantee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FUpdateIntentLetter.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FUpdateMeetRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FUpdateProcess.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FChargeBackFeeTool.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryAcceptProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryAllocateProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryBase.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryChargeStatistics.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryConsultation.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryCreditProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryFirstProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryFirstTrialProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryGuaranteeForm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryGuarantingCorporation.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryLoanProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryOppEvaluate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryPauseProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryPresentingProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryProcessingProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryProjectExpandDate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryProjectRequite.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryRecantProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryRegionProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryRequiteProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQuerySignProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryUnSignProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMaturityProjectReview.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmOverdueProjectQuery.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRefundDebtProjectQuery.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmSearchBaseClass.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTerminateProjectReview.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.DataGridColor.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.DataGridColoredBoolColumn.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.DataGridColoredTextBoxColumn.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAffirmEvaluateDate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FOppImportData.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryEvaluaterTask.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAcceptRequest.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmArchiveContractMeterial.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmArchiveMaterial.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCompanyFileManage.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCompanyFileQuery.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmContractAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCountersignAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDefectRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDefectRecordAdd.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDevolveOnProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDocumentBill.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDocumentList.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDocumentManage.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDocumentManageBusiness.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDocumentParameter.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDocumentSystem.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmEvaPerson.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmFraternityAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmImportDataToExcel.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmInspectMaterial.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmInsuraceAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmLawTextAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMakeContract.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMaterial.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmMaterialAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmOppGuarantee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeEvaluate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeRegister.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmPledgeRegistryAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmPrehockAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmQueryAcceptRequest.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmQueryBasic.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmQueryCorporationInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmQueryCurrentTask.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmQueryDefectRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmQueryOppGuarantee.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRecommendAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRegisterCorporationInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmRegistryAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmReviewContract.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmTemplateManage.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmWardAffirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAssignLawer_bh.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAssignLawer_ProjectDelay.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAssignLawer_zdb.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAssignPmBase.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAssignPm_BH.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAssignPm_ZDB.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterApply.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterReturn.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterSign.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterTerminateConfirm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRegisterProjectEndCaseInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAssignationFirstChecker.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAssignationGroup.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAssignationLawManager.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAssignationProjectManager.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmAssignFirstTask.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmBusinessBaseWin.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmCenCheckProjectTerminate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmDepCheckProjectTerminate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmFinancialCheckProjectTerminate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmFindProjectInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmOppGuaranteeQueryCheck.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmProjectTerminate.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmShowProjectInfo.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.frmShowVouchRecord.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FSendMessage.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FViewGuaranteeLetterUsage.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.DataGridComboBoxColumn.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FAlarm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FBank.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FBaseData.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FBranch.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FConferenceRoom.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCooperateOrganization.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCorporationType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCorporatioRelationType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuality.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCreditAppraiseQuantity.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCreditAppraiseSystem.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FCurrency.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FDistrict.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FFinancialAnalysis.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FGuaranteeLetterType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FGuarantyStatus.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FIndustryType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FInvestForm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FItem.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FItem01.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FItem02.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FItem03.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FItem04.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FLoanChargeManner.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FLoanForm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FLoanProvideForm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FLoanType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FMasterDetailDataForm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FMaterial.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FOppositeGuaranteeForm.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FOrganization.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FPassword.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FPhase.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FProject.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FProjectCredit.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FProprietorshipType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryStatisticsWorkLog.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FQueryWorkLog.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRecommendType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRefundType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FReimburseType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRiskClass.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FRole.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FServiceTypeDialog.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FStaff.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FStaffRole.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FStatisticsWorkingHours.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FTeam.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FTechnologyType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FTerminateType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.FWorkType.resources
+D:\git\gmis_client\MainInterface\obj\Debug\MainInterface.vbproj.GenerateResource.Cache
