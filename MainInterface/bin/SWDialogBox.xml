@@ -353,6 +353,27 @@
             该值为空值（在Visual Basic中为Nothing）默认为系统提供的图标。
             </remarks>
         </member>
+        <member name="T:SWDialogBox.FMessageBox">
+            <summary>
+            FMessageBox 的摘要说明。
+            </summary>
+        </member>
+        <member name="F:SWDialogBox.FMessageBox.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:SWDialogBox.FMessageBox.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+        </member>
+        <member name="M:SWDialogBox.FMessageBox.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要使用代码编辑器修改
+            此方法的内容。
+            </summary>
+        </member>
         <member name="T:SWDialogBox.LoginResult">
             <summary>
             指示登录是否成功的返回状态。
@@ -554,27 +575,6 @@
         <member name="P:SWDialogBox.LoginBox.TitleImage">
             <summary>
             获取或设置登录框窗体的标题栏的显示图像。
-            </summary>
-        </member>
-        <member name="T:SWDialogBox.FMessageBox">
-            <summary>
-            FMessageBox 的摘要说明。
-            </summary>
-        </member>
-        <member name="F:SWDialogBox.FMessageBox.components">
-            <summary>
-            必需的设计器变量。
-            </summary>
-        </member>
-        <member name="M:SWDialogBox.FMessageBox.Dispose(System.Boolean)">
-            <summary>
-            清理所有正在使用的资源。
-            </summary>
-        </member>
-        <member name="M:SWDialogBox.FMessageBox.InitializeComponent">
-            <summary>
-            设计器支持所需的方法 - 不要使用代码编辑器修改
-            此方法的内容。
             </summary>
         </member>
     </members>

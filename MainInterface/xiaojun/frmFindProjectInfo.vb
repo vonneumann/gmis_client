@@ -60,10 +60,11 @@ Public Class frmFindProjectInfo
     Friend WithEvents txt_corp_name As System.Windows.Forms.TextBox
     Friend WithEvents ImageList1 As System.Windows.Forms.ImageList
     Friend WithEvents DataGridTextBoxColumn13 As System.Windows.Forms.DataGridTextBoxColumn
+    Friend WithEvents DataGridTextBoxColumn15 As System.Windows.Forms.DataGridTextBoxColumn
     Friend WithEvents DataGridTextBoxColumn14 As System.Windows.Forms.DataGridTextBoxColumn
     <System.Diagnostics.DebuggerStepThrough()> Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container
-        Dim resources As System.Resources.ResourceManager = New System.Resources.ResourceManager(GetType(frmFindProjectInfo))
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmFindProjectInfo))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
         Me.txt_corp_name = New System.Windows.Forms.TextBox
         Me.txt_project_code = New System.Windows.Forms.TextBox
@@ -85,6 +86,8 @@ Public Class frmFindProjectInfo
         Me.DataGridTextBoxColumn3 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn4 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn5 = New System.Windows.Forms.DataGridTextBoxColumn
+        Me.DataGridTextBoxColumn13 = New System.Windows.Forms.DataGridTextBoxColumn
+        Me.DataGridTextBoxColumn14 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn6 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn7 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn8 = New System.Windows.Forms.DataGridTextBoxColumn
@@ -92,10 +95,9 @@ Public Class frmFindProjectInfo
         Me.DataGridTextBoxColumn9 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn10 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn11 = New System.Windows.Forms.DataGridTextBoxColumn
+        Me.DataGridTextBoxColumn15 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.btnShowProjectInfo = New System.Windows.Forms.Button
         Me.btnExit = New System.Windows.Forms.Button
-        Me.DataGridTextBoxColumn13 = New System.Windows.Forms.DataGridTextBoxColumn
-        Me.DataGridTextBoxColumn14 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         CType(Me.dgGrid, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -130,7 +132,6 @@ Public Class frmFindProjectInfo
         Me.txt_corp_name.Name = "txt_corp_name"
         Me.txt_corp_name.Size = New System.Drawing.Size(120, 21)
         Me.txt_corp_name.TabIndex = 1
-        Me.txt_corp_name.Text = ""
         '
         'txt_project_code
         '
@@ -138,7 +139,6 @@ Public Class frmFindProjectInfo
         Me.txt_project_code.Name = "txt_project_code"
         Me.txt_project_code.Size = New System.Drawing.Size(104, 21)
         Me.txt_project_code.TabIndex = 0
-        Me.txt_project_code.Text = ""
         '
         'Label5
         '
@@ -220,9 +220,11 @@ Public Class frmFindProjectInfo
         '
         'ImageList1
         '
-        Me.ImageList1.ImageSize = New System.Drawing.Size(16, 16)
         Me.ImageList1.ImageStream = CType(resources.GetObject("ImageList1.ImageStream"), System.Windows.Forms.ImageListStreamer)
         Me.ImageList1.TransparentColor = System.Drawing.Color.Transparent
+        Me.ImageList1.Images.SetKeyName(0, "")
+        Me.ImageList1.Images.SetKeyName(1, "")
+        Me.ImageList1.Images.SetKeyName(2, "")
         '
         'GroupBox2
         '
@@ -253,7 +255,7 @@ Public Class frmFindProjectInfo
         'DataGridTableStyle1
         '
         Me.DataGridTableStyle1.DataGrid = Me.dgGrid
-        Me.DataGridTableStyle1.GridColumnStyles.AddRange(New System.Windows.Forms.DataGridColumnStyle() {Me.DataGridTextBoxColumn1, Me.DataGridTextBoxColumn2, Me.DataGridTextBoxColumn3, Me.DataGridTextBoxColumn4, Me.DataGridTextBoxColumn5, Me.DataGridTextBoxColumn13, Me.DataGridTextBoxColumn14, Me.DataGridTextBoxColumn6, Me.DataGridTextBoxColumn7, Me.DataGridTextBoxColumn8, Me.DataGridTextBoxColumn12, Me.DataGridTextBoxColumn9, Me.DataGridTextBoxColumn10, Me.DataGridTextBoxColumn11})
+        Me.DataGridTableStyle1.GridColumnStyles.AddRange(New System.Windows.Forms.DataGridColumnStyle() {Me.DataGridTextBoxColumn1, Me.DataGridTextBoxColumn2, Me.DataGridTextBoxColumn3, Me.DataGridTextBoxColumn4, Me.DataGridTextBoxColumn5, Me.DataGridTextBoxColumn13, Me.DataGridTextBoxColumn14, Me.DataGridTextBoxColumn6, Me.DataGridTextBoxColumn7, Me.DataGridTextBoxColumn8, Me.DataGridTextBoxColumn12, Me.DataGridTextBoxColumn9, Me.DataGridTextBoxColumn10, Me.DataGridTextBoxColumn11, Me.DataGridTextBoxColumn15})
         Me.DataGridTableStyle1.HeaderForeColor = System.Drawing.SystemColors.ControlText
         Me.DataGridTableStyle1.MappingName = "ViewProject"
         '
@@ -301,6 +303,22 @@ Public Class frmFindProjectInfo
         Me.DataGridTextBoxColumn5.MappingName = "manager_B"
         Me.DataGridTextBoxColumn5.NullText = ""
         Me.DataGridTextBoxColumn5.Width = 75
+        '
+        'DataGridTextBoxColumn13
+        '
+        Me.DataGridTextBoxColumn13.Format = ""
+        Me.DataGridTextBoxColumn13.FormatInfo = Nothing
+        Me.DataGridTextBoxColumn13.HeaderText = "处理A角"
+        Me.DataGridTextBoxColumn13.MappingName = "nowManagerA"
+        Me.DataGridTextBoxColumn13.Width = 75
+        '
+        'DataGridTextBoxColumn14
+        '
+        Me.DataGridTextBoxColumn14.Format = ""
+        Me.DataGridTextBoxColumn14.FormatInfo = Nothing
+        Me.DataGridTextBoxColumn14.HeaderText = "处理B角"
+        Me.DataGridTextBoxColumn14.MappingName = "nowManagerB"
+        Me.DataGridTextBoxColumn14.Width = 75
         '
         'DataGridTextBoxColumn6
         '
@@ -369,6 +387,16 @@ Public Class frmFindProjectInfo
         Me.DataGridTextBoxColumn11.NullText = ""
         Me.DataGridTextBoxColumn11.Width = 94
         '
+        'DataGridTextBoxColumn15
+        '
+        Me.DataGridTextBoxColumn15.Alignment = System.Windows.Forms.HorizontalAlignment.Right
+        Me.DataGridTextBoxColumn15.Format = "c"
+        Me.DataGridTextBoxColumn15.FormatInfo = CType(resources.GetObject("DataGridTextBoxColumn15.FormatInfo"), System.IFormatProvider)
+        Me.DataGridTextBoxColumn15.HeaderText = "放款金额(万)"
+        Me.DataGridTextBoxColumn15.MappingName = "GuaranteeSum"
+        Me.DataGridTextBoxColumn15.NullText = ""
+        Me.DataGridTextBoxColumn15.Width = 95
+        '
         'btnShowProjectInfo
         '
         Me.btnShowProjectInfo.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
@@ -399,22 +427,6 @@ Public Class frmFindProjectInfo
         Me.btnExit.Text = "退 出(&X)"
         Me.btnExit.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
-        'DataGridTextBoxColumn13
-        '
-        Me.DataGridTextBoxColumn13.Format = ""
-        Me.DataGridTextBoxColumn13.FormatInfo = Nothing
-        Me.DataGridTextBoxColumn13.HeaderText = "处理A角"
-        Me.DataGridTextBoxColumn13.MappingName = "nowManagerA"
-        Me.DataGridTextBoxColumn13.Width = 75
-        '
-        'DataGridTextBoxColumn14
-        '
-        Me.DataGridTextBoxColumn14.Format = ""
-        Me.DataGridTextBoxColumn14.FormatInfo = Nothing
-        Me.DataGridTextBoxColumn14.HeaderText = "处理B角"
-        Me.DataGridTextBoxColumn14.MappingName = "nowManagerB"
-        Me.DataGridTextBoxColumn14.Width = 75
-        '
         'frmFindProjectInfo
         '
         Me.AcceptButton = Me.btnSearch
@@ -432,6 +444,7 @@ Public Class frmFindProjectInfo
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "查询项目信息"
         Me.GroupBox1.ResumeLayout(False)
+        Me.GroupBox1.PerformLayout()
         Me.GroupBox2.ResumeLayout(False)
         CType(Me.dgGrid, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)

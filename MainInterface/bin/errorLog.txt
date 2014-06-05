@@ -1639,3 +1639,69 @@
 错误消息：Microsoft Word
 项目任务信息：命令失败
 ----------------------
+2014/6/5 16:31:09
+系统错误
+发生无法预知的错误！
+
+错误来源：System.Drawing
+错误消息：参数无效。
+项目任务信息：   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 Sunisoft.IrisSkin.x867b4abdb49f9449.x9b8f9735fbcfbe34(SCROLLBARINFO x8d3f74e5f925679c)
+   在 Sunisoft.IrisSkin.xc56e4251b5681836.PaintControl()
+   在 Sunisoft.IrisSkin.x2edc3f693fe78d2e.PaintControl()
+   在 Sunisoft.IrisSkin.x3a157e8c7a942ff8.PaintControl()
+   在 Sunisoft.IrisSkin.x2edc3f693fe78d2e.AfterWndProc(Message& m)
+   在 Sunisoft.IrisSkin.x8917d01b98173f4c.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   在 System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 Sunisoft.IrisSkin.xbd3f2493841f18a1.x172fd1e80a81620d()
+   在 Sunisoft.IrisSkin.xbd3f2493841f18a1..ctor(Control control, SkinEngine engine)
+   在 Sunisoft.IrisSkin.x8917d01b98173f4c..ctor(Control control, SkinEngine engine)
+   在 Sunisoft.IrisSkin.xc56e4251b5681836..ctor(Control control, SkinEngine engine)
+   在 Sunisoft.IrisSkin.x2edc3f693fe78d2e..ctor(Control control, SkinEngine engine)
+   在 Sunisoft.IrisSkin.x3a157e8c7a942ff8..ctor(Control control, SkinEngine engine)
+   在 Sunisoft.IrisSkin.xf3f6919ac5d158dc.xebcf83b00134300b(Control x43bec302f92080b9, SkinEngine xcab6a0e662ada486)
+   在 Sunisoft.IrisSkin.xa427f1b2281f554b.SkinControls()
+   在 Sunisoft.IrisSkin.xd24df615efe9450e..ctor(IntPtr handle, SkinEngine engine)
+   在 Sunisoft.IrisSkin.xa427f1b2281f554b..ctor(IntPtr handle, SkinEngine engine)
+   在 Sunisoft.IrisSkin.SkinEngine.DoAddWnd(IntPtr handle, Boolean isManual)
+   在 Sunisoft.IrisSkin.SkinEngine.FnHookProc(Int32 nCode, IntPtr wParam, IntPtr lParam)
+   在 System.Windows.Forms.Form.AdjustSystemMenu()
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Form.CreateHandle()
+   在 System.Windows.Forms.PropertyStore.GetObject(Int32 key, Boolean& found)
+   在 System.Windows.Forms.Form.get_CalledCreateControl()
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 MainInterface.FConsole.ShowMain(String status) 位置 D:\git\gmis_client\MainInterface\FConsole.vb:行号 535
+----------------------
+2014/6/5 17:46:16
+系统错误
+发生无法预知的错误！
+
+错误来源：System.Drawing
+错误消息：参数无效。
+项目任务信息：   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 Sunisoft.IrisSkin.x867b4abdb49f9449.x9b8f9735fbcfbe34(SCROLLBARINFO x8d3f74e5f925679c)
+   在 Sunisoft.IrisSkin.xc56e4251b5681836.PaintControl()
+   在 Sunisoft.IrisSkin.x2edc3f693fe78d2e.PaintControl()
+   在 Sunisoft.IrisSkin.x3a157e8c7a942ff8.PaintControl()
+   在 Sunisoft.IrisSkin.x2edc3f693fe78d2e.AfterWndProc(Message& m)
+   在 Sunisoft.IrisSkin.x8917d01b98173f4c.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 Sunisoft.IrisSkin.x61467fe65a98f20c.SetWindowPos(IntPtr hWnd, IntPtr hWndInsertAfter, Int32 X, Int32 Y, Int32 cx, Int32 cy, UInt32 uFlags)
+   在 Sunisoft.IrisSkin.xd24df615efe9450e.ApplySkin()
+   在 Sunisoft.IrisSkin.xd24df615efe9450e..ctor(IntPtr handle, SkinEngine engine)
+   在 Sunisoft.IrisSkin.xa427f1b2281f554b..ctor(IntPtr handle, SkinEngine engine)
+   在 Sunisoft.IrisSkin.SkinEngine.DoAddWnd(IntPtr handle, Boolean isManual)
+   在 Sunisoft.IrisSkin.SkinEngine.FnHookProc(Int32 nCode, IntPtr wParam, IntPtr lParam)
+   在 System.Windows.Forms.Form.AdjustSystemMenu()
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Form.CreateHandle()
+   在 System.Windows.Forms.PropertyStore.GetObject(Int32 key, Boolean& found)
+   在 System.Windows.Forms.Form.get_CalledCreateControl()
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 MainInterface.FConsole.ShowMain(String status) 位置 D:\git\gmis_client\MainInterface\FConsole.vb:行号 535
+----------------------
